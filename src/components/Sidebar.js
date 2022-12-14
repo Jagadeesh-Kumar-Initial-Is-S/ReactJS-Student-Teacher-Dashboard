@@ -69,12 +69,12 @@ const Sidebar = ({ onCollapse, onToggleOff }) => {
         <h3>Tech Company</h3>
       </div>
 
-      <div className="search-controller">
+      {/* <div className="search-controller">
         <button className="search-btn">
           <i className="bi bi-search"></i>
         </button>
         <input type="text" placeholder="search" />
-      </div>
+      </div> */}
 
       <div className="divider"></div>
 
