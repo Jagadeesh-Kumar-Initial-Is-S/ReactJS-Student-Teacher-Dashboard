@@ -1,8 +1,13 @@
 Submitted and coded by Jagadeesh Kumar . S, you may send mail to my email address which is jagadeesh_2k17@proton.me, you may contribute some money to my Indian Unified Payment Interface (UPI) which is jagadeesh-kumar@ybl .
 
+https://github.com/Jagadeesh-Kumar-Initial-Is-S/ReactJS-Student-Teacher-Dashboard
+
+https://bright-sunburst-2a3d01.netlify.app/
+
 # Task
 
 Task - same task OF ADMIN DASHBOARD TO IMPLEMENT THE CRUD WITH STUDENT & TEACHER MANAGEMENT
+
 <hr/>
 
 # Getting Started with Create React App
