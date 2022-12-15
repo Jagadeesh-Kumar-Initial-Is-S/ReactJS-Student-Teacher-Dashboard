@@ -8,6 +8,23 @@ const Navbar = ({ inactive, toggleoff }) => {
         inactive ? 'inactive' : ''
       } ${toggleoff ? 'toggleoff' : ''}`}
     >
+
+            <ul className="navbar-nav me-auto mb-2 mb-lg-0">
+            <li className="nav-item">
+              <aa className="nav-link active" aria-current="page" href="#">
+                Tech Company
+              </aa>
+            </li>
+            </ul>
+
+
+
+
+
+
+
+
+
       {/* <div className="container-fluid">
         
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
