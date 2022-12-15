@@ -11,7 +11,7 @@ const Footer = () => {
           >
      Tech Company
           </a>
-          <span className="text-muted">© 2022</span>
+          <span className="text-muted">© 2022 Company, Inc.</span>
         </div>
 
         {/* <ul className="nav col-md-4 justify-content-end list-unstyled d-flex">
